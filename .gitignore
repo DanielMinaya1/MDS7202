@@ -1,0 +1,31 @@
+# Ignoramos la carpeta videos
+videos/
+
+# Ignoramos los archivos 0.txt hasta 9.txt
+/texts/[0-9].txt
+
+# Ignoramos los archivos 10.txt hasta 99.txt
+/texts/[1-9][0-9].txt
+
+# Ignoramos los archivos 100.txt hasta 169.txt
+/texts/1[0-6][0-9].txt 
+
+# Ignoramos el archivo 170.txt
+/texts/170.txt 
+
+# Ignoramos los archivos 172.txt hasta 179.txt
+/texts/17[2-9].txt
+
+# Ignoramos los archivos 180.txt hasta 199.txt
+/texts/1[8-9][0-9].txt
+
+# Ignoramos los archivos 200.txt hasta 999.txt
+/texts/[2-9][0-9][0-9].txt
+
+# Ignoramos los archivos 1000.txt en adelante
+/texts/[1-9][0-9][0-9][0-9].txt
+
+
+
+# Esta parte es para ignorar los archivos del jupyter notebook
+.ipynb_checkpoints/
