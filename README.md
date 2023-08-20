@@ -1,6 +1,6 @@
 # MDS7202
 
-Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos.
+Repositorio del curso [Laboratorio de Programación Científica para Ciencia de Datos](https://github.com/MDS7202/MDS7202).
 
 Equipo docente:
 
